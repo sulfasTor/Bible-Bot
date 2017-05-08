@@ -1,0 +1,19 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "My first twitter bot using Twit package",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "twit"
+  ],
+  "author": "sulfastor",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
